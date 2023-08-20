@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A passionate Front-End Engineer with 5+ years of experience building apps using JavaScript</h3>
+<h3 align="center">A passionate Full Stack Software Engineer with 5+ years of experience building apps using JavaScript, Java and Python</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
